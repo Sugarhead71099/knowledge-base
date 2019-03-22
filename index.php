@@ -43,7 +43,7 @@
                         	?>
                         	<div class="sticky-bottom row text-center pull-right" id="tabContentFooter">
 								<footer id="knowledgeBaseFooter" style="position: relative;">
-									<small>Training &amp; Resource Center &nbsp;| &nbsp;Quantum Medical Billing, LLC &nbsp;| &nbsp;2017-2018</small>
+									<small>Training &amp; Resource Center &nbsp;| &nbsp;John Doe, LLC &nbsp;| &nbsp;2017-2018</small>
 								</footer>
 								<button class="pull-right btn btn-default btn-sm waves-effect waves-light" id="editUI">Edit</button>
 							</div>
